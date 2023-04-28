@@ -8,7 +8,7 @@ Requirements
 
 To use the Rubber Duckie Ordering System, follow these steps:
 
-    Run the program by executing the exe Ducky in the project directory.
+    Run the program by executing Ducky.exe in the project directory.
     Follow the on-screen prompts to enter your shipping address, credit card information, and order details.
     Once all required information has been entered, the program will charge your credit card and display a confirmation message.
 
