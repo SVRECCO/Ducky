@@ -4,7 +4,6 @@ This is a C# program developed by TechStarWebDesign that allows users to order r
 Requirements
 
     .NET Core 3.1 or higher
-    Stripe API credentials (test or live)
 
 
 To use the Rubber Duckie Ordering System, follow these steps:
