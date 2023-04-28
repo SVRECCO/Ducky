@@ -6,25 +6,6 @@ Requirements
     .NET Core 3.1 or higher
     Stripe API credentials (test or live)
 
-Installation
-
-To install the Rubber Duckie Ordering System, follow these steps:
-
-    Clone the GitHub repository or download the source code.
-    Navigate to the project directory in a terminal or command prompt.
-    Run dotnet build to build the project.
-    Create a file named appsettings.json in the project directory with the following content:
-
-json
-
-{
-  "Stripe": {
-    "ApiKey": "YOUR_STRIPE_API_KEY"
-  }
-}
-
-Replace YOUR_STRIPE_API_KEY with your actual Stripe API key.
-Usage
 
 To use the Rubber Duckie Ordering System, follow these steps:
 
