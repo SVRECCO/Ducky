@@ -1,4 +1,4 @@
-# Ducky.exe
+# Ducky
 
 This is a C# program developed by TechStarWebDesign that allows users to order rubber duckies using the Stripe API. The program is designed to be run on the command line or in a console window.
 Requirements
